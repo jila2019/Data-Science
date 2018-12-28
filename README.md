@@ -69,6 +69,4 @@ Submit your solution to the KeepUp data science challenge
 
 Submit your solution to the Relax Inc. data science challenge
 
-Mini-Project: Create a story toolbox
-
-Written with StackEdit.
+Mini-Project: Create a story toolbox Written with StackEdit.
